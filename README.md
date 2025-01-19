@@ -1,0 +1,1 @@
+This repository demonstrates a common VBScript error: the type mismatch error (Error 13).  The `bug.vbs` file contains code that will trigger this error. The `bugSolution.vbs` file shows how to handle potential type mismatches using error handling and data type checks.
